@@ -1,6 +1,13 @@
 # Change Log - @microsoft/gulp-core-build
 
-This log was last generated on Fri, 20 Jan 2017 01:46:41 GMT and should not be manually modified.
+This log was last generated on Fri, 20 Jan 2017 20:04:30 GMT and should not be manually modified.
+
+## 2.2.0
+Fri, 20 Jan 2017 20:04:30 GMT
+
+### Minor changes
+
+- Remove several logging utilities from the public API and improve documentation in other places.
 
 ## 2.1.1
 Fri, 20 Jan 2017 01:46:41 GMT
